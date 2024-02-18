@@ -1,0 +1,13 @@
+.singlePage_container{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.singleBanner{
+    height: 100%;
+    width: 50%;
+}
+.singleBanner img{
+    height: 100%;
+    width: 100%;
+}
